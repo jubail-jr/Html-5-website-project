@@ -3,7 +3,7 @@
 Welcome to the GitHub repository of "Rosona Bilas Restaurant Website". This is a unique web project built strictly using structural HTML tags without a single line of CSS or JavaScript. 
 
 ## 🌐 Live Demo
-You can view the live website here: [এখানে আপনার ওয়েবসাইটের লিংকটি বসিয়ে দিন, যেমন: https://username.github.io/repository-name]
+You can view the live website here:https://jubail-jr.github.io/Html-5-website-project/
 
 ## 🚀 Project Overview
 The main goal of this project is to implement and showcase a wide variety of HTML tags in a structured and semantic way to build a functional layout for a restaurant website.
@@ -20,4 +20,4 @@ The main goal of this project is to implement and showcase a wide variety of HTM
 2. Open the `index.html` file in any modern web browser (Chrome, Firefox, Safari, Edge).
 
 ---
-Developed by [আপনার নাম]
+Developed by জুবাইল
